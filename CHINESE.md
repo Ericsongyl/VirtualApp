@@ -19,6 +19,7 @@ Apk下载
 ----------
 
 1、 将你的Host和Plugins需要的**所有权限**加入到你的`AndroidManifest.xml`.
+
 2、 前往你的Application并添加如下代码:
 ```java
     @Override
@@ -41,11 +42,11 @@ Apk下载
 ```java
     VirtualCore.getCore().launchApp({PackageName});
 ```
-6、 移除App:
+5、 移除App:
 ```java
     VirtualCore.getCore().uninstallApp({PackageName});
 ```
-7、 该App有关的信息:
+6、 该App有关的信息:
 ```java
     VirtualCore.getCore().findApp({PackageName});
 ```
