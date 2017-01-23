@@ -18,8 +18,8 @@ Apk下载
 使用说明
 ----------
 
-1. 将你的Host和Plugins需要的**所有权限**加入到你的`AndroidManifest.xml`.
-2. 前往你的Application并添加如下代码:
+1、 将你的Host和Plugins需要的**所有权限**加入到你的`AndroidManifest.xml`.
+2、 前往你的Application并添加如下代码:
 ```java
     @Override
     protected void attachBaseContext(Context base) {
@@ -33,19 +33,19 @@ Apk下载
         }
     }
 ```
-3. 将App添加到虚拟引擎:
+3、 将App添加到虚拟引擎:
 ```java
     VirtualCore.getCore().installApp({APK PATH}, flags);
 ```
-4. 启动App:
+4、 启动App:
 ```java
     VirtualCore.getCore().launchApp({PackageName});
 ```
-5. 移除App:
+6、 移除App:
 ```java
     VirtualCore.getCore().uninstallApp({PackageName});
 ```
-6. 该App有关的信息:
+7、 该App有关的信息:
 ```java
     VirtualCore.getCore().findApp({PackageName});
 ```
