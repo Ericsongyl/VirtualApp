@@ -5,5 +5,5 @@
         android:id="@+id/action_refresh"
         android:orderInCategory="100"
         app:showAsAction="always"
-        android:icon="@drawable/ic_add"/>
+        android:icon="@mipmap/ic_add"/>
 </menu>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#607d8f</color>
-    <color name="colorPrimaryDark">#455a64</color>
+    <!--<color name="colorPrimary">#607d8f</color>-->
+    <!--<color name="colorPrimaryDark">#455a64</color>-->
     <color name="colorAccent">#607d8f</color>
+    <color name="colorPrimary">#11BBFE</color>
+    <color name="colorPrimaryDark">#11BBFE</color>
 
     <color name="holo_blue_dark">#0099cc</color>
     <color name="holo_yellow_dark">#ff8800</color>
@@ -20,5 +22,8 @@
 
     <color name="transparent">#00000000</color>
     <color name="black_20_transparent">#55000000</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_blue_11BBFE">#11BBFE</color>
+    <color name="color_blue_05A8FE">#05A8FE</color>
 
 </resources>

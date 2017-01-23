@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">VirtualApp</string>
-    <string name="app_welcome">Welcome to Virtual App</string>
-    <string name="setup_enter_new_world">Enter new world</string>
-    <string name="wait">Please wait…</string>
+    <string name="app_name">双开助手</string>
+    <string name="app_welcome">欢迎来到双开的世界</string>
+    <string name="setup_enter_new_world">进入新世界</string>
+    <string name="wait">请稍候…</string>
     <string name="desktop">Desktop</string>
-    <string name="add_app">Add App</string>
-    <string name="preparing">Opening the app…</string>
+    <string name="add_app">添加App</string>
+    <string name="preparing">正在启动…</string>
 </resources>
