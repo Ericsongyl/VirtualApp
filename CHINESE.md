@@ -1,4 +1,4 @@
-[![VA banner](https://raw.githubusercontent.com/asLody/VirtualApp/master/banner.png)](https://github.com/asLody/VirtualApp)
+[![VA banner](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/banner.png)](https://github.com/Ericsongyl/VirtualApp)
 关于
 ---
 **VirtualApp**是一个**App虚拟引擎**的完整实现（简称`VA`）。
@@ -9,6 +9,12 @@ VirtualApp允许你在App内创建一个虚拟空间，你可以在虚拟空间�
 注意
 -----
 VirtualApp已申请国家专利, 并获得软件著作权保护, 当你的行为对项目或是项目作者构成利益冲突时,我们将追究法律责任.
+
+Apk下载
+--------
+[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](https://fir.im/p2tn)
+
+
 使用说明
 ----------
 
