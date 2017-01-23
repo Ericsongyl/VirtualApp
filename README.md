@@ -1,6 +1,6 @@
 [![VA banner](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/banner.png)](https://github.com/Ericsongyl/VirtualApp)
 
-[中文](CHINESE.md "中文")
+[中文说明](CHINESE.md "中文说明")
 
 About
 -----
