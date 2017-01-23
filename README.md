@@ -1,4 +1,4 @@
-[![VA banner](https://raw.githubusercontent.com/asLody/VirtualApp/master/banner.png)](https://github.com/asLody/VirtualApp)
+[![VA banner](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/banner.png)](https://github.com/Ericsongyl/VirtualApp)
 
 [中文](CHINESE.md "中文")
 
@@ -21,6 +21,9 @@ But as time goes on,
 the compatibility of it is getting better and better.
 in the end, it evolved into a `Virtual Container`.
 
+Download Apk
+-----------
+[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](https://fir.im/p2tn)
 
 Get started
 -----------
