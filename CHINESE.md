@@ -12,7 +12,7 @@ VirtualApp已申请国家专利, 并获得软件著作权保护, 当你的行为
 
 Apk下载
 --------
-[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](https://fir.im/p2tn)
+[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](http://a.app.qq.com/o/simple.jsp?pkgname=io.virtualapp)
 
 
 使用说明

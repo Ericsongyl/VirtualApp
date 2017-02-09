@@ -23,7 +23,7 @@ in the end, it evolved into a `Virtual Container`.
 
 Download Apk
 -----------
-[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](https://fir.im/p2tn)
+[![apk download](https://github.com/Ericsongyl/VirtualApp/blob/master/dl.png)](http://a.app.qq.com/o/simple.jsp?pkgname=io.virtualapp)
 
 Get started
 -----------
