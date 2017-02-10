@@ -19,6 +19,6 @@
         android:layout_height="wrap_content"
         android:singleLine="true"
         android:layout_marginTop="8dp"
-        android:textColor="@android:color/white"/>
+        android:textColor="@color/color_black_999999"/>
 
 </LinearLayout>

@@ -2,6 +2,8 @@ package io.virtualapp.home;
 
 import android.app.Activity;
 
+import com.lody.virtual.client.core.VirtualCore;
+
 import io.virtualapp.VCommends;
 import io.virtualapp.home.models.AppModel;
 import io.virtualapp.home.models.AppRepository;
@@ -82,6 +84,7 @@ class HomePresenterImpl implements HomeContract.HomePresenter {
 		if (model != null) {
 			try {
 				mRepo.removeVirtualApp(model);
+				VirtualCore.get().removeShortcut(0, model.packageName, null, null); //当app从双开环境中移除时，去掉双开生成的快捷方式
 			} catch (Throwable e) {
 				e.printStackTrace();
 			}

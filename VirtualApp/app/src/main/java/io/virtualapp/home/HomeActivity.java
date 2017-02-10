@@ -147,7 +147,7 @@ public class HomeActivity extends VActivity implements HomeContract.HomeView {
 	@Override
 	public void showGuide() {
 		new MaterialShowcaseView.Builder(this).setTarget(mAppFab).setDelay(700)
-				.setContentText("Click this button to add an App ~").setDismissText("Got it")
+				.setContentText("点击加号按钮添加app~~").setDismissText("朕知道了")
 				.setDismissTextColor(Color.parseColor("#03a9f4")).show();
 	}
 
@@ -171,7 +171,7 @@ public class HomeActivity extends VActivity implements HomeContract.HomeView {
 
 	@Override
 	public void waitingAppOpen() {
-		ProgressDialog.show(this, "Please wait", "Opening the app...");
+		ProgressDialog.show(this, "请稍候", "正在启动app...");
 	}
 
 

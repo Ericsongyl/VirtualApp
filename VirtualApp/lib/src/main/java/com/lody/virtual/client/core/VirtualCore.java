@@ -372,7 +372,7 @@ public final class VirtualCore {
 
         Intent addIntent = new Intent();
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_INTENT, shortcutIntent);
-        addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, name);
+        addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, name + "双开");
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_ICON, icon);
         addIntent.setAction("com.android.launcher.action.INSTALL_SHORTCUT");
         context.sendBroadcast(addIntent);
@@ -415,7 +415,7 @@ public final class VirtualCore {
 
         Intent addIntent = new Intent();
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_INTENT, shortcutIntent);
-        addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, name);
+        addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, name + "双开");
         addIntent.setAction("com.android.launcher.action.UNINSTALL_SHORTCUT");
         context.sendBroadcast(addIntent);
         return true;

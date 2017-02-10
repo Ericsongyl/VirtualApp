@@ -27,6 +27,7 @@ public class LoadingActivity extends AppCompatActivity {
 	private AppModel appModel;
 
 	public static void launch(Context context, AppModel model, int userId) {
+		VirtualCore.get().createShortcut(userId, model.packageName, null); //在双开环境中打开app，在手机桌面生成快捷方式，名称为"app名称+双开"
 		Intent intent = VirtualCore.get().getLaunchIntent(model.packageName, userId);
 		if (intent != null) {
 			Intent loadingPageIntent = new Intent(context, LoadingActivity.class);
