@@ -66,7 +66,9 @@ GPL 3.0
 
     Lody (imlody@foxmail.com)
 
-**App双开**效果图
+
+App双开效果图
+----------------
 [![1](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/pic/1.png)](http://sj.qq.com/myapp/detail.htm?apkName=io.virtualapp)
 [![2](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/pic/2.png)](http://sj.qq.com/myapp/detail.htm?apkName=io.virtualapp)
 [![3](https://raw.githubusercontent.com/Ericsongyl/VirtualApp/master/pic/3.png)](http://sj.qq.com/myapp/detail.htm?apkName=io.virtualapp)
